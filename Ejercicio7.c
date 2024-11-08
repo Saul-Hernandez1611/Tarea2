@@ -1,4 +1,4 @@
-/*Hacer un diagrama de flujo para calcular el precio de un ticket ida y vuelta
+/*Hacer un algoritmo en estructura condicional, para calcular el precio de un ticket ida y vuelta
 en ferrocarril, conociendo la distancia de ida y el tiempo de estancia.
 Tambi ́en se sabe que si el numero de d ́ıas de estancia es mayor a 7 y la
 distancias total (ida y vuelta) a recorrer es mayor a 800 km, el ticket tiene
